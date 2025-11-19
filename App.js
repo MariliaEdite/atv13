@@ -1,3 +1,5 @@
+// Token: ExponentPushToken[tGeOXVKZHxyPiSVubxh_NM]
+
 // Importa hooks do React
 import { useState, useEffect, useRef } from "react";
 import { Button, Platform, View, Text } from "react-native";

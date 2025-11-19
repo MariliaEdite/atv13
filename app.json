@@ -2,6 +2,12 @@
   "expo": {
     "name": "myproject",
     "slug": "myproject",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "edd864dd-4ef0-4d6e-a2fa-c6187ca2b8a6"
+      }
+    },
+    "owner": "mari6"
   }
 }
